@@ -1,10 +1,8 @@
-# BA10-AS10
 # GadgetHeaven
 
-**Live Link**: [GadgetHeaven on Surge]()  
-**Code Repository**: [GitHub Repository]()  
-
-
+**Live Link**: [GadgetHeaven on Surge](https://assinment-eight-ferdous.surge.sh/)  
+**Code Repository**: [GitHub Repository](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Ferdous725890)  
+**Requirement Document**: [Requirement Document on Google Drive](https://drive.google.com/drive/my-drive)  
 
 ## Fundamental Concepts Used in This Project
 
